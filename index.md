@@ -1,5 +1,5 @@
 ## Ge Zhang
-Ph.D. student<br>
+Ph.D. Student<br>
 School of Computing<br>
 Macquarie University<br>
 
