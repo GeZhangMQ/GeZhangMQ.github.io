@@ -20,13 +20,13 @@ Background, General and Specialized Topics”, IEEE Transactions on Knowledge an
  
 
 ### Awards
- Higher Degree Research, Research Rising Star Award, 2022, Macquarie University, Sydney, Australia.<cr>
+ **Higher Degree Research Rising Star Award**, 2022, Macquarie University, Sydney, Australia.<cr>
  
- Best Student Paper Award, the 21st IEEE International Conference on Data Mining, 2021, Auckland, New Zealand.<cr>
+**Best Student Paper Award**, the 21st IEEE International Conference on Data Mining, 2021, Auckland, New Zealand.<cr>
  
- Excellent Graduate of Tianjin University, 2019, Tianjin, China.<cr>
+**Excellent Graduate of Tianjin University**, 2019, Tianjin, China.<cr>
  
- Excellent Graduate of Tianjin University, 2019, Tianjin China.<cr>
+**Excellent Graduate of Tianjin University**, 2019, Tianjin China.<cr>
  
 You can use the [editor on GitHub](https://github.com/GeZhangMQ/GeZhangMQ.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
