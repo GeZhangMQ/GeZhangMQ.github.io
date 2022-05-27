@@ -31,20 +31,20 @@ Background, General and Specialized Topics”, IEEE Transactions on Knowledge an
 ## <font color=blue>Professional Activities</font>
 
 ### Journal Reviewer
- ACM Transactions on the Web<cr>
+ * ACM Transactions on the Web
  
- ACM Transactions on Knowledge Discovery from Data<cr>
+ * ACM Transactions on Knowledge Discovery from Data
  
- IEEE Transactions on Emerging Topics in Computing<cr>
+ * IEEE Transactions on Emerging Topics in Computing
  
- Neural Nerworks<cr>
+ * Neural Nerworks<cr>
 
 ### Conference Reviewer
- ICDM 2021<cr>
+ * ICDM 2021
  
- KDD 2021<cr>
+ * KDD 2021
  
- PAKDD 2022<cr>
+ * PAKDD 2022
  
- CIKM 2022<cr>
+ * CIKM 2022
  
