@@ -3,7 +3,7 @@ Ph.D. Student<br>
 School of Computing<br>
 Macquarie University<br>
 
-I am a 2nd-year Ph.D. student of School of Computing at Macquarie University, advised by Dr. Jia Wu. My research mainly focus on graph mining and anomaly detection. I finished my Master's in College of Intelligence and Computing at Tinajin University. <cr>
+I am a 2nd-year Ph.D. student of School of Computing at Macquarie University, advised by [Dr. Jia Wu][http://web.science.mq.edu.au/~jiawu/]. My research mainly focus on graph mining and anomaly detection. I finished my Master's in College of Intelligence and Computing at Tinajin University. <cr>
  
 You can use the [editor on GitHub](https://github.com/GeZhangMQ/GeZhangMQ.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
