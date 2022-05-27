@@ -5,7 +5,7 @@ Macquarie University<br>
 
 I am a 2nd-year Ph.D. student of School of Computing at Macquarie University, advised by [Dr. Jia Wu](http://web.science.mq.edu.au/~jiawu/). My research mainly focus on graph mining and anomaly detection. I finished my Master's in College of Intelligence and Computing at Tinajin University. <cr>
 
-### Publications 
+### <font color=blue>Publications<\font>
  Ge Zhang, Zhao Li, Jiaming Huang, Jia Wu, Chuan Zhou and Jian Yang, “eFraudCom: An E-commerce Fraud Detection System via Competitive Graph Neural Networks”, ACM Transactions on Information Systems (**TOIS**), 40(3), pp.1-29, 2022. [PDF](https://dl.acm.org/doi/pdf/10.1145/3474379) <cr>
  
  Ge Zhang, Jia Wu, Jian Yang, Amin Beheshti, Shan Xue, Chuan Zhou, Quan Z. Sheng “FRAUDRE: Fraud Detection Dual-Resistant to Graph Inconsistency and
@@ -19,7 +19,7 @@ Background, General and Specialized Topics”, IEEE Transactions on Knowledge an
  Ge Zhang, Jia Wu, Jian Yang, Shan Xue, Wenbin Hu, Chuan Zhou, Hao Peng, Quan Z. Sheng, and Charu Aggarwal, “Graph-level Neural Networks: Current Progresses and Future Directions”, **arXiv**, 2022. <cr>
  
 
-### Awards
+### <font color=blue>Awards<\font>
  **Higher Degree Research Rising Star Award**, 2022, Macquarie University, Sydney, Australia.<cr>
  
 **Best Student Paper Award**, the 21st IEEE International Conference on Data Mining, 2021, Auckland, New Zealand.<cr>
@@ -28,7 +28,7 @@ Background, General and Specialized Topics”, IEEE Transactions on Knowledge an
  
 **Excellent Graduate of Tianjin University**, 2019, Tianjin China.<cr>
 
-### Professional Activities
+### <font color=blue>Professional Activities<\font>
  #### Journal Reviewer
  ACM Transactions on the Web<cr>
  
