@@ -26,16 +26,14 @@ Background, General and Specialized Topics”, IEEE Transactions on Knowledge an
  * **Merit Student of Tianjin University**, 2019, Tianjin China.
 
 ## <font color=blue>Professional Activities</font>
-
-### Journal Reviewer
- * ACM Transactions on the Web
- * ACM Transactions on Knowledge Discovery from Data
- * IEEE Transactions on Emerging Topics in Computing
- * Neural Nerworks
- 
-### Conference Reviewer
- * ICDM 2021
- * KDD 2021 
- * PAKDD 2022
- * CIKM 2022
+ * Journal Reviewer
+     -ACM Transactions on the Web
+     -ACM Transactions on Knowledge Discovery from Data
+     -IEEE Transactions on Emerging Topics in Computing
+     -Neural Nerworks
+ * Conference Reviewer
+     -ICDM 2021
+     -KDD 2021 
+     -PAKDD 2022
+     -CIKM 2022
  
