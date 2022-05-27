@@ -1,7 +1,7 @@
 ## Ge Zhang
 ## Ph.D. Candidate
 
-ge.zhang5ATstudentsDotmqDoteduDotau
+Email: ge.zhang5ATstudentsDOTmqDOTeduDOTau<br>
 School of Computing<br>
 Macquarie University<br>
 
