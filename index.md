@@ -1,7 +1,7 @@
 ## Ge Zhang
-Ph.D. student
-School of Computing
-Macquarie University
+Ph.D. student<br>
+School of Computing<br>
+Macquarie University<br>
 
 You can use the [editor on GitHub](https://github.com/GeZhangMQ/GeZhangMQ.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
