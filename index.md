@@ -14,7 +14,7 @@ Imbalance”, IEEE International Conference on Data Minging (**ICDM 2021**), pp.
 [3] Di Jin, KunzengWang, **Ge Zhang**, Pengfei Jiao, Dongxiao He, Francoise Fogelman Soulie and Xin Huang, “Detecting Communities with Multiplex Semantics by Distinguishing
 Background, General and Specialized Topics”, IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 32(11), pp. 2144-2158, 2019. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8832212)<cr>
  
-[4] **Ge Zhang**, Di Jin, Jian Gao, Pengfei Jiao, Francoise Fogelman-Soulie and Xin Huang, “Finding Communities with Hierarchical Semantics by Distinguishing General and Specialized Topics”, International Joint Conference on Artificial and Intelligence(**IJCAI**), pp. 3648-3654, 2018. [PDF](https://www.ijcai.org/proceedings/2018/0507.pdf)<cr>
+[4] **Ge Zhang**, Di Jin, Jian Gao, Pengfei Jiao, Francoise Fogelman-Soulie and Xin Huang, “Finding Communities with Hierarchical Semantics by Distinguishing General and Specialized Topics”, International Joint Conference on Artificial and Intelligence(**IJCAI 2018**), pp. 3648-3654, 2018. [PDF](https://www.ijcai.org/proceedings/2018/0507.pdf)<cr>
  
 [5] **Ge Zhang**, Jia Wu, Jian Yang, Shan Xue, Wenbin Hu, Chuan Zhou, Hao Peng, Quan Z. Sheng, and Charu Aggarwal, “Graph-level Neural Networks: Current Progresses and Future Directions”, **arXiv**, 2022. <cr>
  
@@ -23,7 +23,7 @@ Background, General and Specialized Topics”, IEEE Transactions on Knowledge an
  * **Higher Degree Research Rising Star Award**, 2022, Macquarie University, Sydney, Australia.
  * **Best Student Paper Award**, the 21st IEEE International Conference on Data Mining, 2021, Auckland, New Zealand.
  * **Excellent Graduate of Tianjin University**, 2019, Tianjin, China.
- * **Excellent Graduate of Tianjin University**, 2019, Tianjin China.
+ * **Merit Student of Tianjin University**, 2019, Tianjin China.
 
 ## <font color=blue>Professional Activities</font>
 
