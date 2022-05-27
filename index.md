@@ -28,8 +28,9 @@ Background, General and Specialized Topics”, IEEE Transactions on Knowledge an
  
 **Excellent Graduate of Tianjin University**, 2019, Tianjin China.<cr>
 
-## <font color=blue>Professional Activities<\font>
- ### Journal Reviewer
+## <font color=blue>Professional Activities</font>
+
+### Journal Reviewer
  ACM Transactions on the Web<cr>
  
  ACM Transactions on Knowledge Discovery from Data<cr>
@@ -37,8 +38,8 @@ Background, General and Specialized Topics”, IEEE Transactions on Knowledge an
  IEEE Transactions on Emerging Topics in Computing<cr>
  
  Neural Nerworks<cr>
- 
- ### Conference Reviewer
+
+### Conference Reviewer
  ICDM 2021<cr>
  
  KDD 2021<cr>
