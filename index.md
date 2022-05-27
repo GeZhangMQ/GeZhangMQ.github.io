@@ -1,4 +1,4 @@
-## Ge Zhang
+## <font color=blue>Ge Zhang</font>
 Ph.D. Student<br>
 School of Computing<br>
 Macquarie University<br>
