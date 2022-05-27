@@ -4,6 +4,8 @@ gem "github-pages", group: :jekyll_plugins
 
 title: Ge Zhang's Homepage
 
+description: Welcome to my homepage!
+
 logo: profile.jpg
 
 show_downloads: false
