@@ -4,8 +4,6 @@ gem "github-pages", group: :jekyll_plugins
 
 title: Ge Zhang's Homepage
 
-description: [Hi，I'm Ge Zhang，a PhD Candidate in the Department of Computing，Macquarie University. It's nice to meet you!]
-
 logo: profile.jpg
 
 show_downloads: false
