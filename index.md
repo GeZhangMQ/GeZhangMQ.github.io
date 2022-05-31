@@ -11,7 +11,7 @@ I am a 2nd-year Ph.D. student at School of Computing, Macquarie University, advi
 [1] **Ge Zhang**, Zhao Li, Jiaming Huang, Jia Wu, Chuan Zhou and Jian Yang, “eFraudCom: An E-commerce Fraud Detection System via Competitive Graph Neural Networks”, ACM Transactions on Information Systems (**TOIS**), 40(3), pp.1-29, 2022. [PDF](https://dl.acm.org/doi/pdf/10.1145/3474379) <cr>
  
 [2] **Ge Zhang**, Jia Wu, Jian Yang, Amin Beheshti, Shan Xue, Chuan Zhou, Quan Z. Sheng “FRAUDRE: Fraud Detection Dual-Resistant to Graph Inconsistency and
-Imbalance”, IEEE International Conference on Data Minging (**ICDM 2021**), pp. 867-876, 2021. **<font color=red>[Best Student Paper Award](https://icdm2021.auckland.ac.nz/awards/)</font>**. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679178)<cr>
+Imbalance”, IEEE International Conference on Data Minging (**ICDM 2021**), pp. 867-876, 2021. [**<font color=red>Best Student Paper Award</font>**](https://icdm2021.auckland.ac.nz/awards/). [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679178)<cr>
  
 [3] Di Jin, KunzengWang, **Ge Zhang**, Pengfei Jiao, Dongxiao He, Francoise Fogelman Soulie and Xin Huang, “Detecting Communities with Multiplex Semantics by Distinguishing
 Background, General and Specialized Topics”, IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 32(11), pp. 2144-2158, 2019. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8832212)<cr>
