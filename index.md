@@ -13,7 +13,7 @@ I am a 2nd-year Ph.D. student at School of Computing, Macquarie University, advi
 [2] **Ge Zhang**, Jia Wu, Jian Yang, Amin Beheshti, Shan Xue, Chuan Zhou, Quan Z. Sheng “FRAUDRE: Fraud Detection Dual-Resistant to Graph Inconsistency and
 Imbalance”, IEEE International Conference on Data Minging (**ICDM 2021**), pp. 867-876, 2021. [**<font color=red>Best Student Paper Award</font>**](https://icdm2021.auckland.ac.nz/awards/). [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679178)<cr>
  
-[3] Di Jin, KunzengWang, **Ge Zhang**, Pengfei Jiao, Dongxiao He, Francoise Fogelman Soulie and Xin Huang, “Detecting Communities with Multiplex Semantics by Distinguishing
+[3] Di Jin, Kunzeng Wang, **Ge Zhang**, Pengfei Jiao, Dongxiao He, Francoise Fogelman Soulie and Xin Huang, “Detecting Communities with Multiplex Semantics by Distinguishing
 Background, General and Specialized Topics”, IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 32(11), pp. 2144-2158, 2019. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8832212)<cr>
  
 [4] **Ge Zhang**, Di Jin, Jian Gao, Pengfei Jiao, Francoise Fogelman Soulie and Xin Huang, “Finding Communities with Hierarchical Semantics by Distinguishing General and Specialized Topics”, International Joint Conference on Artificial and Intelligence(**IJCAI 2018**), pp. 3648-3654, 2018. [PDF](https://www.ijcai.org/proceedings/2018/0507.pdf)<cr>
