@@ -1,9 +1,6 @@
-## Ge Zhang
+**Ge Zhang**  
+**Ph.D. Candidate**
 
-
-
-
-Ph.D. Candidate  
 School of Computing<br>
 Macquarie University<br>
 Sydney, Australia<br>
