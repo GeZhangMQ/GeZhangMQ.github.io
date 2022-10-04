@@ -6,10 +6,10 @@ Macquarie University<br>
 Sydney, Australia<br>
 ge.zhang5@students.mq.edu.au<br>
 
-## <font color=blue>Biography</font>
+## <font color=black>Biography</font>
 I am a 2nd-year Ph.D. student at School of Computing, Macquarie University, advised by Dr. [Jia Wu](http://web.science.mq.edu.au/~jiawu/) and Prof. [Jian Yang](http://web.science.mq.edu.au/~jian/). My research interests are graph mining and anomaly detection. I finished my Master's in 2019 at College of Intelligence and Computing, Tianjin University. <cr>
 
-## <font color=blue>Publications</font>
+## <font color=black>Publications</font>
 
 &#x1F4D1; **Ge Zhang**, Zhenyu Yang, Jia Wu, Jian Yang, Shan Xue, Hao Peng, Jianlin Su, Chuan Zhou, Quan Z. Sheng, Leman Akoglu, Charu C. Aggarwal, “Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection”, Conference on Neural Information Processing Systems (**NeurIPS 2022**), 2022.
  
@@ -26,7 +26,7 @@ Background, General and Specialized Topics”, IEEE Transactions on Knowledge an
 &#x1F4D1; **Ge Zhang**, Jia Wu, Jian Yang, Shan Xue, Wenbin Hu, Chuan Zhou, Hao Peng, Quan Z. Sheng, and Charu Aggarwal, “Graph-level Neural Networks: Current Progress and Future Directions”, **arXiv**, 2022. [PDF](https://arxiv.org/pdf/2205.15555.pdf)<cr>
  
 
-## <font color=blue>Awards</font>
+## <font color=black>Awards</font>
 Higher Degree Research Rising Star Award, 2022, Macquarie University, Sydney, Australia  
           Best Student Paper Award, the 21st IEEE International Conference on Data Mining, 2021, Auckland, New Zealand  
           Excellent Graduate of Tianjin University, 2019, Tianjin, China
