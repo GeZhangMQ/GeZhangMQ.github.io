@@ -29,7 +29,7 @@ Background, General and Specialized Topics”, IEEE Transactions on Knowledge an
  
 
 ## <font color=blue>Awards</font>
-* Higher Degree Research Rising Star Award, 2022, Macquarie University, Sydney, Australia
-* Best Student Paper Award, the 21st IEEE International Conference on Data Mining, 2021, Auckland, New Zealand
-* Excellent Graduate of Tianjin University, 2019, Tianjin, China
+Higher Degree Research Rising Star Award, 2022, Macquarie University, Sydney, Australia  
+          Best Student Paper Award, the 21st IEEE International Conference on Data Mining, 2021, Auckland, New Zealand  
+          Excellent Graduate of Tianjin University, 2019, Tianjin, China
 
