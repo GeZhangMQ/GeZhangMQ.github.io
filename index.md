@@ -5,7 +5,7 @@ School of Computing<br>
 Macquarie University<br>
 Email: ge.zhang5@students.mq.edu.au<br>
 
-I am a 2nd-year Ph.D. student at School of Computing, Macquarie University, advised by Dr. [Jia Wu](http://web.science.mq.edu.au/~jiawu/) and Prof. [Jian Yang](http://web.science.mq.edu.au/~jian/). My research mainly focus on graph mining and anomaly detection. I finished my Master's at College of Intelligence and Computing, Tinajin University. <cr>
+I am a 2nd-year Ph.D. student at School of Computing, Macquarie University, advised by Dr. [Jia Wu](http://web.science.mq.edu.au/~jiawu/) and Prof. [Jian Yang](http://web.science.mq.edu.au/~jian/). My research interests are graph mining and anomaly detection. I finished my Master's at College of Intelligence and Computing, Tinajin University. <cr>
 
 ## <font color=blue>Publications</font>
 **Ge Zhang**, Zhenyu Yang, Jia Wu, Jian Yang, Shan Xue, Hao Peng, Jianlin Su, Chuan Zhou, Quan Z. Sheng, Leman Akoglu, Charu C. Aggarwal, “Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection”, Conference on Neural Information Processing Systems (**NeurIPS 2022**), 2022.
