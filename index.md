@@ -26,7 +26,8 @@ Background, General and Specialized Topics”, IEEE Transactions on Knowledge an
  
 
 ## <font color=black>Awards</font>
+NeurIPS 2022 Scholar Award, 2002<br>
 Higher Degree Research Rising Star Award, 2022, Macquarie University<br>
-Best Student Paper Award, the 21st IEEE ICDM, 2021, Auckland<br>
+Best Student Paper Award, 2021, the 21st IEEE ICDM<br>
 Excellent Graduate of Tianjin University, 2019
 
