@@ -25,7 +25,7 @@ Background, General and Specialized Topics”, IEEE Transactions on Knowledge an
 &#x1F4D1; **Ge Zhang**, Jia Wu, Jian Yang, Shan Xue, Wenbin Hu, Chuan Zhou, Hao Peng, Quan Z. Sheng, and Charu Aggarwal, “Graph-level Neural Networks: Current Progress and Future Directions”, **arXiv**, 2022. [PDF](https://arxiv.org/pdf/2205.15555.pdf)<cr>
  
 
-## <font color=black>Awards.</font>
+## <font color=black>Awards</font>
 NeurIPS 2022 Scholar Award.<br>
 Higher Degree Research Rising Star Award, School of Computing, Macquarie University, 2022.<br>
 Best Student Paper Award, the 21st IEEE ICDM, 2021.<br>
