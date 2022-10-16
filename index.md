@@ -28,9 +28,9 @@ Background, General and Specialized Topics”, IEEE Transactions on Knowledge an
  
 
 ## <font color=black>Awards</font>
-2022 Microsoft Research PhD Fellowship, 2022.<br>
+Microsoft Research PhD Fellowship, 2022.<br>
  
-NeurIPS 2022 Scholar Award.<br>
+NeurIPS Scholar Award, 2022.<br>
  
 Higher Degree Research Rising Star Award, School of Computing, Macquarie University, 2022.<br>
  
