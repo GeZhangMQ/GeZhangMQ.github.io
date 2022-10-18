@@ -10,9 +10,9 @@ I am a 2nd-year Ph.D. student at School of Computing, Macquarie University, advi
 
 ## <font color=black>Publications</font>
  
-&#x1F4D1; Zhenyu Yang, **Ge Zhang**, Jia Wu, et al., “Minimum Entropy Principle Guided Graph Neural Networks”, the 16th ACM International Conference on Web Search and Data Mining (**WSDM**), 2023.
+&#x1F4D1; Zhenyu Yang, **Ge Zhang**, Jia Wu, et al., “Minimum Entropy Principle Guided Graph Neural Networks”, the 16th ACM International Conference on Web Search and Data Mining (**WSDM 2023**), 2022.
 
-&#x1F4D1; **Ge Zhang**, Zhenyu Yang, Jia Wu, Jian Yang, Shan Xue, Hao Peng, Jianlin Su, Chuan Zhou, Quan Z. Sheng, Leman Akoglu, Charu C. Aggarwal, “Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection”, Conference on Neural Information Processing Systems (**NeurIPS**), 2022.
+&#x1F4D1; **Ge Zhang**, Zhenyu Yang, Jia Wu, Jian Yang, Shan Xue, Hao Peng, Jianlin Su, Chuan Zhou, Quan Z. Sheng, Leman Akoglu, Charu C. Aggarwal, “Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection”, Conference on Neural Information Processing Systems (**NeurIPS 2022**), 2022.
  
 &#x1F4D1; **Ge Zhang**, Zhao Li, Jiaming Huang, Jia Wu, Chuan Zhou and Jian Yang, “eFraudCom: An E-commerce Fraud Detection System via Competitive Graph Neural Networks”, ACM Transactions on Information Systems (**TOIS**), 40(3), pp.1-29, 2022. [PDF](https://dl.acm.org/doi/pdf/10.1145/3474379) <cr>
  
