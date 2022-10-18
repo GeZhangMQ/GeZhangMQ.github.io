@@ -31,7 +31,7 @@ IEEE International Conference on Data Minging (ICDM 2021)<br>
 Di Jin, Kunzeng Wang, **Ge Zhang**, Pengfei Jiao, Dongxiao He, Francoise Fogelman Soulie and Xin Huang<br>
 IEEE Transactions on Knowledge and Data Engineering (TKDE), 32(11), pp. 2144-2158, 2019
 
-&#x1F4D1; **[Finding Communities with Hierarchical Semantics by Distinguishing General and Specialized Topic](https://www.ijcai.org/proceedings/2018/0507.pdf)**)<br>
+&#x1F4D1; **[Finding Communities with Hierarchical Semantics by Distinguishing General and Specialized Topic](https://www.ijcai.org/proceedings/2018/0507.pdf)**<br>
 **Ge Zhang**, Di Jin, Jian Gao, Pengfei Jiao, Francoise Fogelman Soulie and Xin Huang<br>
 International Joint Conference on Artificial and Intelligence (IJCAI 2018), pp. 3648-3654, 2018
 
