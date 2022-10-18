@@ -10,11 +10,11 @@ I am a 2nd-year Ph.D. student at School of Computing, Macquarie University, advi
 
 ## <font color=black>Publication</font>
 
-&#x1F4D1; **<font color=blue>Minimum Entropy Principle Guided Graph Neural Networks</font>**<br>
+&#x1F4D1; **[Minimum Entropy Principle Guided Graph Neural Networks](https://gezhangmq.github.io/)**<br>
 Zhenyu Yang, Ge Zhang, Jia Wu, et al.<br>
 The 16th ACM International Conference on Web Search and Data Mining (WSDM 2023)
  
-&#x1F4D1; **Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection**<br>
+&#x1F4D1; **[Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection](https://gezhangmq.github.io/)**<br>
 Ge Zhang, Zhenyu Yang, Jia Wu, Jian Yang, Hao Peng, Jianlin Su, Chuan Zhou, Quan Z. Sheng, Leman Akoglu, Charu C. Aggarwal<br>
 Conference on Neural Information Processing Systems (NeurIPS 2022)
  
