@@ -28,7 +28,7 @@ IEEE International Conference on Data Minging (ICDM 2021)<br>
 [**Best Student Paper Award**](https://icdm2021.auckland.ac.nz/awards/)
  
 &#x1F4D1; **[Detecting Communities with Multiplex Semantics by Distinguishing Background, General and Specialized Topics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8832212)**<br>
-Di Jin, Kunzeng Wang, **Ge Zhang**, Pengfei Jiao, Dongxiao He, Francoise Fogelman Soulie and Xin Huang<br>
+Di Jin, Kunzeng Wang, Ge Zhang, Pengfei Jiao, Dongxiao He, Francoise Fogelman Soulie and Xin Huang<br>
 IEEE Transactions on Knowledge and Data Engineering (TKDE), 32(11), pp. 2144-2158, 2019
 
 &#x1F4D1; **[Finding Communities with Hierarchical Semantics by Distinguishing General and Specialized Topic](https://www.ijcai.org/proceedings/2018/0507.pdf)**<br>
