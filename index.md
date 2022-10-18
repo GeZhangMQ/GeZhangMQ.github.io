@@ -10,7 +10,7 @@ I am a 2nd-year Ph.D. student at School of Computing, Macquarie University, advi
 
 ## <font color=black>Publication</font>
 
-&#x1F4D1; **Minimum Entropy Principle Guided Graph Neural Networks**<br>
+&#x1F4D1; **<font color=blue>Minimum Entropy Principle Guided Graph Neural Networks</font>**<br>
 Zhenyu Yang, Ge Zhang, Jia Wu, et al.<br>
 The 16th ACM International Conference on Web Search and Data Mining (WSDM 2023)
  
