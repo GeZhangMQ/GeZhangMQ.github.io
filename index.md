@@ -41,9 +41,8 @@ International Joint Conference on Artificial and Intelligence(**IJCAI 2018**), p
  
 
 ## <font color=black>Awards</font>
-Microsoft Research PhD Fellowship, 2022.<br>
+[Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/2022-recipients/), 2022.<br>
 NeurIPS Scholar Award, 2022.<br>
 Higher Degree Research Rising Star Award, School of Computing, Macquarie University, 2022.<br>
-Best Student Paper Award, the 21st IEEE ICDM, 2021.<br>
-Excellent Graduate of Tianjin University, 2019.
+[Best Student Paper Award](https://icdm2021.auckland.ac.nz/awards/), the 21st IEEE ICDM, 2021.<br>
 
