@@ -10,7 +10,7 @@ I am a 2nd-year Ph.D. student at School of Computing, Macquarie University, advi
 
 ## <font color=black>Publications</font>
  
-&#x1F4D1; Zhenyu Yang, **Ge Zhang**, Jia Wu, et al., “Minimum Entropy Principle Guided Graph Neural Networks”, ACM International Conference on Web Search and Data Mining (**WSDM 2023**), 2023.
+&#x1F4D1; Zhenyu Yang, **Ge Zhang**, Jia Wu, Hao Peng, Jian Yang, Jianlin Su, Angsheng Li, Michael Sheng, “Minimum Entropy Principle Guided Graph Neural Networks”, ACM International Conference on Web Search and Data Mining (**WSDM 2023**), 2023.
 
 &#x1F4D1; **Ge Zhang**, Zhenyu Yang, Jia Wu, Jian Yang, Hao Peng, Jianlin Su, Chuan Zhou, Quan Z. Sheng, Leman Akoglu, Charu C. Aggarwal, “Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection”, Conference on Neural Information Processing Systems (**NeurIPS 2022**), 2022.
  
