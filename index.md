@@ -9,6 +9,8 @@ ge.zhang5 AT students.mq.edu.au<br>
 I am a 2nd-year Ph.D. student at School of Computing, Macquarie University, advised by Dr. [Jia Wu](http://web.science.mq.edu.au/~jiawu/) and Prof. [Jian Yang](http://web.science.mq.edu.au/~jian/). My research interests are graph mining and anomaly detection. I finished my Master's in 2019 at College of Intelligence and Computing, Tianjin University. I have been selected as one of [2022 Microsoft Research PhD Fellows](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/2022-recipients/). <cr>
 
 ## <font color=black>Publications</font>
+ 
+&#x1F4D1; Zhenyu Yang, **Ge Zhang**, Jia Wu, et al., “Minimum Entropy Principle Guided Graph Neural Networks”, the 16th ACM International Conference on Web Search and Data Mining (**WSDM**), 2023.
 
 &#x1F4D1; **Ge Zhang**, Zhenyu Yang, Jia Wu, Jian Yang, Shan Xue, Hao Peng, Jianlin Su, Chuan Zhou, Quan Z. Sheng, Leman Akoglu, Charu C. Aggarwal, “Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection”, Conference on Neural Information Processing Systems (**NeurIPS**), 2022.
  
