@@ -5,9 +5,9 @@ ge.zhang5@students.mq.edu.au<br>
 School of Computing, Macquarie University, Australia<br>
 
 ## <font color=black>Biography</font>
-I am a 2nd-year Ph.D. student at School of Computing, Macquarie University, advised by Dr. [Jia Wu](http://web.science.mq.edu.au/~jiawu/) and Prof. [Jian Yang](http://web.science.mq.edu.au/~jian/). My research interests are graph mining and anomaly detection. 
+Ge Zhang is a 2nd-year Ph.D. student at School of Computing, Macquarie University, advised by Dr. [Jia Wu](http://web.science.mq.edu.au/~jiawu/) and Prof. [Jian Yang](http://web.science.mq.edu.au/~jian/). My research interests are graph mining and anomaly detection. 
 
-I have been selected as one of [2022 Microsoft Research PhD Fellows](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/2022-recipients/). <cr>
+Ge Zhang has been selected as one of [2022 Microsoft Research PhD Fellows](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/2022-recipients/). <cr>
 
 ## <font color=black>Publication</font>
 
