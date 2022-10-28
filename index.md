@@ -12,7 +12,7 @@ Ge Zhang has been selected as one of [2022 Microsoft Research PhD Fellows](https
 ## <font color=black>Publication</font>
 
 &#x1F4D1; **[Minimum Entropy Principle Guided Graph Neural Networks](https://gezhangmq.github.io/)**<br>
-Zhenyu Yang, **Ge Zhang**, Jia Wu, et al.<br>
+Zhenyu Yang, **Ge Zhang**, Jia Wu, Hao Peng, Jian Yang, Angsheng Li, Jianlin Su, Quan Z. Sheng<br>
 The 16th ACM International Conference on Web Search and Data Mining (WSDM 2023)
  
 &#x1F4D1; **[Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection](https://gezhangmq.github.io/)**<br>
