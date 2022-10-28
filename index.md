@@ -40,7 +40,7 @@ Ge Zhang, Jia Wu, Jian Yang, Chuan Zhou, Hao Peng, Quan Z. Sheng, and Charu Agga
 **arXiv**, 2022.
  
 
-## <font color=black>Distinction</font>
+## <font color=black>Awards</font>
 [Microsoft Research PhD Fellowship Award](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/2022-recipients/), 2022.<br>
 NeurIPS Scholar Award, 2022.<br>
 Higher Degree Research Rising Star Award, School of Computing, Macquarie University, 2022.<br>
