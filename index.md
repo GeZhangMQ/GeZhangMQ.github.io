@@ -14,7 +14,7 @@ Zhenyu Yang, **Ge Zhang**, Jia Wu, et al.<br>
 The 16th ACM International Conference on Web Search and Data Mining (WSDM 2023)
  
 &#x1F4D1; **[Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection](https://gezhangmq.github.io/)**<br>
-Ge Zhang, Zhenyu Yang, Jia Wu, Jian Yang, Hao Peng, Jianlin Su, Chuan Zhou, Quan Z. Sheng, Leman Akoglu, Charu C. Aggarwal<br>
+**Ge Zhang**, Zhenyu Yang, Jia Wu, Jian Yang, Hao Peng, Jianlin Su, Chuan Zhou, Quan Z. Sheng, Leman Akoglu, Charu C. Aggarwal<br>
 Conference on Neural Information Processing Systems (NeurIPS 2022)
  
 &#x1F4D1; **[eFraudCom: An E-commerce Fraud Detection System via Competitive Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3474379)**<br>
