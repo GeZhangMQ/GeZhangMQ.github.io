@@ -38,7 +38,7 @@ International Joint Conference on Artificial and Intelligence (IJCAI 2018), pp. 
 
 &#x1F4D1; **[Graph-level Neural Networks: Current Progress and Future Directions](https://arxiv.org/pdf/2205.15555.pdf)**<br>
 **Ge Zhang**, Jia Wu, Jian Yang, Chuan Zhou, Hao Peng, Quan Z. Sheng, and Charu Aggarwal<br>
-arXiv, 2022.
+arXiv:2205.15555, 2022.
  
 
 ## <font color=black>Awards</font>
