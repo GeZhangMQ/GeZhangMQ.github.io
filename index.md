@@ -19,7 +19,7 @@ Conference on Neural Information Processing Systems (NeurIPS 2022)
 **Ge Zhang**, Zhao Li, Jiaming Huang, Jia Wu, Chuan Zhou and Jian Yang<br>
 ACM Transactions on Information Systems (TOIS), 40(3), pp.1-29, 2022
  
-&#x1F4D1; **[FRAUDRE: Fraud Detection Dual-Resistant to Graph Inconsistency and Imbalance](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679178)**<br>
+**[FRAUDRE: Fraud Detection Dual-Resistant to Graph Inconsistency and Imbalance](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679178)**<br>
 **Ge Zhang**, Jia Wu, Jian Yang, Amin Beheshti, Chuan Zhou, Quan Z. Sheng<br>
 IEEE International Conference on Data Minging (ICDM 2021)<br>
 [**Best Student Paper Award**](https://icdm2021.auckland.ac.nz/awards/)
