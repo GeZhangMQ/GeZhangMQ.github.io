@@ -11,7 +11,7 @@ Ge Zhang has been selected as one of [2022 Microsoft Research PhD Fellows](https
 
 ## <font color=black>Publication</font>
  
-**[Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection](https://gezhangmq.github.io/)**<br>
+**[Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection](https://openreview.net/forum?id=d6mf9AFoR-O)**<br>
 **Ge Zhang**, Zhenyu Yang, Jia Wu, Jian Yang, Hao Peng, Jianlin Su, Chuan Zhou, Quan Z. Sheng, Leman Akoglu, Charu C. Aggarwal<br>
 Conference on Neural Information Processing Systems (NeurIPS 2022)
 
