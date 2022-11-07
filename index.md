@@ -10,9 +10,14 @@ Ge Zhang is a 2nd-year Ph.D. student at School of Computing, Macquarie Universit
 Ge Zhang has been selected as one of [2022 Microsoft Research PhD Fellows](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/2022-recipients/). <cr>
 
 ## <font color=black>Publication</font>
+
+**[Minimum Entropy Principle Guided Graph Neural Networks](GeZhangMQ.github.io)**<br>
+Zhenyu Yang, **Ge Zhang**, et al. <br>
+ACM Conference on Web Search and Data Mining (WSDM 2023)
+ 
  
 **[Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection](https://openreview.net/forum?id=d6mf9AFoR-O)**<br>
-**Ge Zhang**, Zhenyu Yang, Jia Wu, Jian Yang, Hao Peng, Jianlin Su, Chuan Zhou, Quan Z. Sheng, Leman Akoglu, Charu C. Aggarwal<br>
+**Ge Zhang**, Zhenyu Yang, et al<br>
 Conference on Neural Information Processing Systems (NeurIPS 2022)
 
 **[eFraudCom: An E-commerce Fraud Detection System via Competitive Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3474379)**<br>
