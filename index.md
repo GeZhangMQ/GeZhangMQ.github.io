@@ -6,9 +6,7 @@ School of Computing, Macquarie University, Australia<br>
 
 ## <font color=black>Biography</font>
 
-Ge Zhang is a 2nd-year Ph.D. student at School of Computing, Macquarie University. She received her Master Degree from Tianjin University. Currently, her research interests are graph mining and anomaly detection. 
-
-Ge Zhang has been selected as one of [2022 Microsoft Research PhD Fellows](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/2022-recipients/). <cr>
+Ge Zhang is a 2nd-year Ph.D. student at School of Computing, Macquarie University. She received her Master Degree from Tianjin University. Her research interests are graph mining and anomaly detection. She has been selected as one of [2022 Microsoft Research PhD Fellows](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/2022-recipients/). <cr>
 
 ## <font color=black>Publication</font>
 
