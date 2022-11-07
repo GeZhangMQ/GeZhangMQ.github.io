@@ -45,8 +45,8 @@ arXiv:2205.15555, 2022.
 
 ## <font color=black>Awards</font>
  
-**Microsoft Research PhD Fellowship Award, 2022.**<br>
-**NeurIPS Scholar Award, 2022.**<br>
-**Higher Degree Research Rising Star Award, School of Computing, Macquarie University, 2022.**<br>
-**Best Student Paper Award, IEEE ICDM, 2021.**<br>
+**[Microsoft Research PhD Fellowship Award](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/2022-recipients/), Microsoft 2022.**<br>
+**[NeurIPS Scholar Award](GeZhangMQ.github.io), NeurIPS 2022.**<br>
+**[Higher Degree Research Rising Star Award](GeZhangMQ.github.io), School of Computing, Macquarie University, 2022.**<br>
+**[Best Student Paper Award](https://icdm2021.auckland.ac.nz/awards/), IEEE ICDM, 2021.**<br>
 
