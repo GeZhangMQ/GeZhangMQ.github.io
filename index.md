@@ -17,7 +17,7 @@ ACM Conference on Web Search and Data Mining (WSDM 2023)
  
  
 **[Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection](https://openreview.net/forum?id=d6mf9AFoR-O)**<br>
-**Ge Zhang**, Zhenyu Yang, et al<br>
+**Ge Zhang**, Zhenyu Yang, et al.<br>
 Conference on Neural Information Processing Systems (NeurIPS 2022)
 
 **[eFraudCom: An E-commerce Fraud Detection System via Competitive Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3474379)**<br>
