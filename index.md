@@ -1,14 +1,11 @@
 
-**Ge Zhang**<br>
-PhD Candidate<br>
-ge.zhang5@students.mq.edu.au<br>
-School of Computing, Macquarie University, Australia<br>
-
 ## <font color=black>Biography</font>
 
 Ge Zhang is a 2nd-year Ph.D. student at School of Computing, Macquarie University. She is interested in developing ML algorithms over graph-structured data to solve real-world problems, especially fraud detection and anomaly detection. She finished Master's in College of Intelligence and Computing at Tianjin University.
 
 Ge Zhang has been selected as one of [2022 Microsoft Research PhD Fellows](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/2022-recipients/). She is the only recipient in Australia & New Zealand ✨.<cr>
+ 
+Email: ge.zhang5@students.mq.edu.au<br>
 
 ## <font color=black>Publication</font>
 
