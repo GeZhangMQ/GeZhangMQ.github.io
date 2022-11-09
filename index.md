@@ -1,4 +1,5 @@
-![avatar](https://github.com/GeZhangMQ/GeZhangMQ.github.io/profile.jpg)
+<img src="https://github.com/GeZhangMQ/GeZhangMQ.github.io/blob/main/profile.jpg" width = "20%" />
+
 ## <font color=black>About Me</font>
 
 **Ge Zhang** is a 2nd-year Ph.D. student at School of Computing, Macquarie University. She is interested in developing ML algorithms over graph-structured data to solve real-world problems, especially fraud detection and anomaly detection. She received Master's in College of Intelligence and Computing at Tianjin University.
