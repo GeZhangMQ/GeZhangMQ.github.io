@@ -28,7 +28,7 @@ arXiv:2205.15555, 2022.
 
 **[FRAUDRE: Fraud Detection Dual-Resistant to Graph Inconsistency and Imbalance](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679178)**<br>
 **Ge Zhang**, Jia Wu, Jian Yang, Amin Beheshti, Chuan Zhou, Quan Z. Sheng<br>
-IEEE International Conference on Data Minging (ICDM 2021)<br>
+IEEE International Conference on Data Minging (ICDM 2021), Acceptance Rate: 9.9%<br>
 🏆 [**Best Student Paper Award**](https://icdm2021.auckland.ac.nz/awards/)
 
 **[Detecting Communities with Multiplex Semantics by Distinguishing Background, General and Specialized Topics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8832212)**<br>
