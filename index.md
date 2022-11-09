@@ -21,10 +21,6 @@ Conference on Neural Information Processing Systems (NeurIPS 2022)
 **Ge Zhang**, Zhao Li, Jiaming Huang, Jia Wu, Chuan Zhou and Jian Yang<br>
 ACM Transactions on Information Systems (TOIS), 40(3), pp.1-29, 2022
 
-**[Graph-level Neural Networks: Current Progress and Future Directions](https://arxiv.org/pdf/2205.15555.pdf)**<br>
-**Ge Zhang**, Jia Wu, Jian Yang, Chuan Zhou, Hao Peng, Quan Z. Sheng, and Charu Aggarwal<br>
-arXiv:2205.15555, 2022.
-
 
 **[FRAUDRE: Fraud Detection Dual-Resistant to Graph Inconsistency and Imbalance](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679178)**<br>
 **Ge Zhang**, Jia Wu, Jian Yang, Amin Beheshti, Chuan Zhou, Quan Z. Sheng<br>
@@ -38,7 +34,10 @@ IEEE Transactions on Knowledge and Data Engineering (TKDE), 32(11), pp. 2144-215
 **[Finding Communities with Hierarchical Semantics by Distinguishing General and Specialized Topic](https://www.ijcai.org/proceedings/2018/0507.pdf)**<br>
 **Ge Zhang**, Di Jin, Jian Gao, Pengfei Jiao, Francoise Fogelman Soulie and Xin Huang<br>
 International Joint Conference on Artificial and Intelligence (IJCAI 2018), pp. 3648-3654, 2018
- 
+
+**[Graph-level Neural Networks: Current Progress and Future Directions](https://arxiv.org/pdf/2205.15555.pdf)**<br>
+**Ge Zhang**, Jia Wu, Jian Yang, Chuan Zhou, Hao Peng, Quan Z. Sheng, and Charu Aggarwal<br>
+arXiv:2205.15555, 2022.
 
 ## <font color=black>Awards</font>
  
