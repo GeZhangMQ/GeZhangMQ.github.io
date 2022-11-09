@@ -6,9 +6,11 @@ School of Computing, Macquarie University, Australia<br>
 
 ## <font color=black>Biography</font>
 
-Ge Zhang is a 2nd-year Ph.D. student at School of Computing, Macquarie University. She received her Master Degree from Tianjin University. Her research interests are graph mining and anomaly detection. She has been selected as one of [2022 Microsoft Research PhD Fellows](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/2022-recipients/). <cr>
+Ge Zhang is a 2nd-year Ph.D. student at School of Computing, Macquarie University. She is interested in developing ML algorithms over graph-structured data to solve real-world problems, especially fraud detection and anomaly detection. She finished Master's in College of Intelligence and Computing at Tianjin University.
 
-## <font color=black>Publication</font>
+Ge Zhang has been selected as one of [2022 Microsoft Research PhD Fellows](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/2022-recipients/). She is the only recipient in Australia & New Zealand. <cr>
+
+ ## <font color=black>Publication</font>
 
 **[Minimum Entropy Principle Guided Graph Neural Networks](https://gezhangmq.github.io/)**<br>
 Zhenyu Yang, **Ge Zhang**, et al. <br>
@@ -26,7 +28,7 @@ ACM Transactions on Information Systems (TOIS), 40(3), pp.1-29, 2022
 **[FRAUDRE: Fraud Detection Dual-Resistant to Graph Inconsistency and Imbalance](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679178)**<br>
 **Ge Zhang**, Jia Wu, Jian Yang, Amin Beheshti, Chuan Zhou, Quan Z. Sheng<br>
 IEEE International Conference on Data Minging (ICDM 2021)<br>
-[**Best Student Paper Award**](https://icdm2021.auckland.ac.nz/awards/)
+🏆 [**Best Student Paper Award**](https://icdm2021.auckland.ac.nz/awards/)
  
 **[Detecting Communities with Multiplex Semantics by Distinguishing Background, General and Specialized Topics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8832212)**<br>
 Di Jin, Kunzeng Wang, **Ge Zhang**, Pengfei Jiao, Dongxiao He, Francoise Fogelman Soulie and Xin Huang<br>
