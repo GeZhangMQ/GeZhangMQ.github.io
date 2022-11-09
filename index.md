@@ -9,7 +9,7 @@ Email: ge.zhang5@students.mq.edu.au<br>
 
 ## <font color=black>Publication</font>
  
-### <font color="SlateGray">2023</font>
+### <font color=gray>2023</font>
 
 **[Minimum Entropy Principle Guided Graph Neural Networks](https://gezhangmq.github.io/)**<br>
 Zhenyu Yang, **Ge Zhang**, et al. <br>
