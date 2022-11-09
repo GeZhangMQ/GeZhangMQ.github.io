@@ -8,14 +8,10 @@
 Email: ge.zhang5@students.mq.edu.au<br>
 
 ## <font color=black>Publication</font>
- 
-### <font color=gray>2023</font>
 
 **[Minimum Entropy Principle Guided Graph Neural Networks](https://gezhangmq.github.io/)**<br>
 Zhenyu Yang, **Ge Zhang**, et al. <br>
 ACM Conference on Web Search and Data Mining (WSDM 2023)
- 
-### <font color=grey>2022</font>
 
 **[Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection](https://openreview.net/forum?id=d6mf9AFoR-O)**<br>
 **Ge Zhang**, Zhenyu Yang, et al.<br>
@@ -29,20 +25,15 @@ ACM Transactions on Information Systems (TOIS), 40(3), pp.1-29, 2022
 **Ge Zhang**, Jia Wu, Jian Yang, Chuan Zhou, Hao Peng, Quan Z. Sheng, and Charu Aggarwal<br>
 arXiv:2205.15555, 2022.
 
-### <font color=grey>2021</font>
 
 **[FRAUDRE: Fraud Detection Dual-Resistant to Graph Inconsistency and Imbalance](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679178)**<br>
 **Ge Zhang**, Jia Wu, Jian Yang, Amin Beheshti, Chuan Zhou, Quan Z. Sheng<br>
 IEEE International Conference on Data Minging (ICDM 2021)<br>
 🏆 [**Best Student Paper Award**](https://icdm2021.auckland.ac.nz/awards/)
 
-### <font color=grey>2019</font>
-
 **[Detecting Communities with Multiplex Semantics by Distinguishing Background, General and Specialized Topics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8832212)**<br>
 Di Jin, Kunzeng Wang, **Ge Zhang**, Pengfei Jiao, Dongxiao He, Francoise Fogelman Soulie and Xin Huang<br>
 IEEE Transactions on Knowledge and Data Engineering (TKDE), 32(11), pp. 2144-2158, 2019
-
-### <font color=grey>2018</font>
 
 **[Finding Communities with Hierarchical Semantics by Distinguishing General and Specialized Topic](https://www.ijcai.org/proceedings/2018/0507.pdf)**<br>
 **Ge Zhang**, Di Jin, Jian Gao, Pengfei Jiao, Francoise Fogelman Soulie and Xin Huang<br>
