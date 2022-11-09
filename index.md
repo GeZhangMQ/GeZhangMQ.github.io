@@ -10,7 +10,7 @@ Ge Zhang is a 2nd-year Ph.D. student at School of Computing, Macquarie Universit
 
 Ge Zhang has been selected as one of [2022 Microsoft Research PhD Fellows](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/2022-recipients/). She is the only recipient in Australia & New Zealand. <cr>
 
- ## <font color=black>Publication</font>
+## <font color=black>Publication</font>
 
 **[Minimum Entropy Principle Guided Graph Neural Networks](https://gezhangmq.github.io/)**<br>
 Zhenyu Yang, **Ge Zhang**, et al. <br>
