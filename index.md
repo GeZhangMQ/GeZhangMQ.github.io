@@ -9,7 +9,7 @@ Email: ge.zhang5@students.mq.edu.au<br>
 # <font color=black>Publication</font>
 
 **Minimum Entropy Principle Guided Graph Neural Networks**<br>
-Zhenyu Yang, **Ge Zhang**, et al. <br>
+Zhenyu Yang, <u>**Ge Zhang**</u>, et al. <br>
 ACM Conference on Web Search and Data Mining (WSDM 2023)
 
 **Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection** [[PDF]](https://openreview.net/forum?id=d6mf9AFoR-O)<br>
