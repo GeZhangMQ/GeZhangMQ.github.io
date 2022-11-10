@@ -1,4 +1,4 @@
-## <font color=black>About Me</font>
+# <font color=black>About Me</font>
 
 **Ge Zhang** is a 2nd-year Ph.D. student at School of Computing, Macquarie University. She is interested in developing ML algorithms over graph-structured data to solve real-world problems, especially fraud detection and anomaly detection. She received Master's in College of Intelligence and Computing at Tianjin University.
 
@@ -6,7 +6,7 @@
  
 Email: ge.zhang5@students.mq.edu.au<br>
 
-## <font color=black>Publication</font>
+# <font color=black>Publication</font>
 
 **[Minimum Entropy Principle Guided Graph Neural Networks](https://gezhangmq.github.io/)**<br>
 Zhenyu Yang, **Ge Zhang**, et al. <br>
@@ -39,7 +39,7 @@ International Joint Conference on Artificial and Intelligence (IJCAI 2018), pp. 
 **Ge Zhang**, Jia Wu, Jian Yang, Chuan Zhou, Hao Peng, Quan Z. Sheng, and Charu Aggarwal<br>
 arXiv:2205.15555, 2022.
 
-## <font color=black>Awards</font>
+# <font color=black>Awards</font>
  
 **[Microsoft Research PhD Fellowship Award](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/2022-recipients/)**, Microsoft 2022.<br>
 **[NeurIPS Scholar Award](https://gezhangmq.github.io/)**, NeurIPS 2022.<br>
